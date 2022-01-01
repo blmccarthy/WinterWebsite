@@ -5,6 +5,26 @@ body {
   color: #f5f5f5;
 }
 
+a:link {
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #03ff46;
+  text-decoration: none;
+}
+
+a:active {
+  color: #03ff46;
+  text-decoration: none;
+}
+
 .search {
   margin: auto;
   background-color: #333232;
@@ -28,4 +48,10 @@ li {
   background-color: #226394;
   padding: 10px 20px 20px 20px;
   margin-top: 20px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+img {
+  float: left;
+  padding: 5px 10px 20px 0px;
 }
