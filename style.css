@@ -90,3 +90,22 @@ li {
 .wolf_sidebar {
   float: right;
 }
+
+.matchup {
+  padding: 20px 0px 20px 0px;
+}
+
+.MTW {
+  float: left;
+  padding: 0px 20px 30px 0px;
+}
+
+.at {
+  float: left;
+  padding: 60px 60px 60px 60px;
+}
+
+.LAL {
+  float: left;
+  padding: 50px 150px 30px 20px;
+}
